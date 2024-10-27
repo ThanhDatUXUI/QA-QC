@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderServiceApp", "OrderServiceApp.csproj", "{8545DC06-31BC-4B31-982B-E303895DFC01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderServiceApp.Tests", "..\OrderServiceApp.Tests\OrderServiceApp.Tests.csproj", "{ADC69653-EEE7-4064-95CA-16F4F8DC28CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8545DC06-31BC-4B31-982B-E303895DFC01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8545DC06-31BC-4B31-982B-E303895DFC01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8545DC06-31BC-4B31-982B-E303895DFC01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8545DC06-31BC-4B31-982B-E303895DFC01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADC69653-EEE7-4064-95CA-16F4F8DC28CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC69653-EEE7-4064-95CA-16F4F8DC28CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC69653-EEE7-4064-95CA-16F4F8DC28CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC69653-EEE7-4064-95CA-16F4F8DC28CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04342DE4-45CB-4EB7-BC3D-A4BEC44228C8}
+	EndGlobalSection
+EndGlobal
